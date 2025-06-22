@@ -2,15 +2,15 @@
 
 This repository contains code for a supervised machine learning task developed as part of the COE305 course. The project focuses on building and evaluating classification models on a dataset using Python and popular ML libraries.
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 - Logistic Regression
 - Decision Tree Classifier
 - Support Vector Machine (SVM)
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
-- Python 3.x
+- Python 
 - pandas
 - numpy
 - scikit-learn
